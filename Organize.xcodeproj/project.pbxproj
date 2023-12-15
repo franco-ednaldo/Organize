@@ -174,8 +174,8 @@
 				89C35FAD2B2BCFD800A86131 /* OnboardingManagerCoordinator.swift */,
 				89C35FAF2B2BD56D00A86131 /* OnboardingRoutineCoordinator.swift */,
 				89C35FB92B2BDA0A00A86131 /* RegisterCoordinator.swift */,
-				89C35FBB2B2BE1C200A86131 /* TabBarCoordinatort */,
 				89C35FB32B2BD78700A86131 /* WelcomeCoordinator.swift */,
+				89C35FBB2B2BE1C200A86131 /* TabBarCoordinatort */,
 			);
 			path = Coordinator;
 			sourceTree = "<group>";
